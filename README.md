@@ -88,9 +88,9 @@ Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se
 
 | FORTALEZAS | DIFICULTADES|
 |----------------|----------|
-|constancia en una tarea atipica, busqueda de autosuperacion| aceptar las limitaciones tecnicas, en la realización de tareas agenas a mis habilidades previas |
-| consulta a compañeros, usuarios de internet, en busqueda de soluciones y alternativas para solucionar un problema | busqueda de caminos alternativos ante imposibilidades o tareas que se presentan como irresolubles |
-|practica en busqueda de soluciones en diferentes aginas e idiomas|dificultades en la implementacion de librerias como scikit-surprise|
+|Constancia en una tarea atípica, busqueda de autosuperación| Aceptar las limitaciones técnicas, en la realización de tareas agenas a mis habilidades previas, buscar objetivos realizables |
+| Consulta a compañeros, usuarios de internet, paginas en diferentes idiomas en busqueda de soluciones y alternativas para resolver un problema | Busqueda de caminos alternativos ante imposibilidades o tareas que se presentan como irresolubles, teniendo en cuenta conocimiento y tiempo disponible. Planificación. |
+|Entender el proceso de práctica y aprendizaje como algo progresivo, buscando siempre superar mi nuvel actual. Sin realizar tareas que no comprendo por el hecho de 'cumplir'. buscando el aprendizaje como primer objetivo |Dificultades en la implementacion de librerias como scikit-surprise, por falta de conocimiento técnico especifico|
 
 
 
