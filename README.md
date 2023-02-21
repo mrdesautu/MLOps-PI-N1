@@ -84,7 +84,9 @@ Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se
 + dataset user Google Drive(https://drive.google.com/file/d/1EL_vLidUTe-33t8oK6NZtSYCjrcZxFxk/view?usp=sharing)
 
 
-## ANALISIS DE FORTALEZAS Y DEBILIDADES
+## ANALISIS DE FORTALEZAS Y DEBILIDADES PERSONALES
+
++ me resulto interesante comentar algo de mi experiencia en la realización de este trabajo
 
 | FORTALEZAS | DIFICULTADES|
 |----------------|----------|
@@ -93,6 +95,8 @@ Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se
 |Entender el proceso de práctica y aprendizaje como algo progresivo, buscando siempre superar mi nuvel actual. Sin realizar tareas que no comprendo por el hecho de 'cumplir'. buscando el aprendizaje como primer objetivo |Dificultades en la implementacion de librerias como scikit-surprise, por falta de conocimiento técnico especifico|
 
 
++  Gracias por su tiempo! espero haya disfrutado leer este trabajo tanto como yo realizarlo!
+# EXITOS! 
 
 
 
