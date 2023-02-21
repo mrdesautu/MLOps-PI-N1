@@ -38,10 +38,10 @@
 + Una vez finalizado este proceso se solicitó realizar un análisis exploratorio de los datos, buscando anomalias, correlaciones entre estos, y permitiendonos tener un acercamiento a la forma en que estos estan presentados. En este se realizó: categorización de los tipos de variables, graficas de los tipos de variables para su analisis, deteccion y tratamiento (entre ellos: outliers, valores extremos no compensados, ni explicados), unificacion de categorias sinonimicas, entre otras.  
 
 **`MODELO DE MACHINE LERNING`**:
-Esta etapa se dividio en dos momentos, ya que el modelo solicitado es un modelo de recomendacion de contenido. Este tipo de modelos son basados en - contenido y en - usuarios. encontrnadose tambien modelos hibridos, que consideran ambos factores. 
--Modelo de recomendacion basado en usuarios:
++ Esta etapa se dividio en dos momentos, ya que el modelo solicitado es un modelo de recomendacion de contenido. Este tipo de modelos son basados en - contenido y en - usuarios. encontrnadose tambien modelos hibridos, que consideran ambos factores. 
+- Modelo de recomendacion basado en usuarios:
 el primer modelo confeccionado se realizo en base a un usuario selecionado de la base de datos otorgada  [Dataset](https://drive.google.com/drive/folders/1b49OVFJpjPPA1noRBBi1hSmMThXmNzxn) en la carpeta 'ratings'. en ella se obtuvo los usuarios que habian puntuado peliculas similares, con puntajes similares, otorgandoles un 'peso' en función de la similitud que tenia su puntuación con nuestro usuario seleccionado. Se utilizó la correlación de Pearson como medida. en funcion de esta similitud y los valores a las puntuaciones, se realizó un Dataframe que ordenaba las peliculas mejores puntuadas por los usuarios más parecidos a nuestro usuario de prueba. En función de estos valores si el título que se ingresa es mayor a 4 (este nuemer fue determinado de manera arbitraria, las puntuaciones van de 0 a 5) una funcion comparativa recomendará la película.
--Modelo de recomendacion en base a contenido:
+- Modelo de recomendacion en base a contenido:
 Luego de haber realizado el EDA sobre nuestras bases de datos, se consideró que seria interesante implementar un modelo hibrido, es por ello que se decisió hacer una estandarizacion de las variables categoricas utilizables (dentro del dataset de películas) que pudiesen ser utilizadas para un modelo de 'ML'. Se vincularon estas variables a el DataFrame que nos habia arrojado el modelo anterior, ya que se encontraba sectorizado a los usurarios con cierta correlacion a un usuario. El modelo utilizado fue el de K-vecinos, que mediante el analisis de este nos recomendo la utilizacion de 9 klausters de clasificacion.  Por limitaciones temporales y tecnicas no se pudo finalizar el 'workflow' para que cumpliese la operatividad de un modelo de MLOps.No por ellos se quiso dejar de mostrar el proceso, ya que implicó un desafio y aprendizaje significativo para el autor.
 Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se ajusta al usuario solicitado, no recibe retroalimentacion, ni se actualiza automaticamente.  
 
@@ -66,7 +66,6 @@ Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se
 
 | Nombre archivo | Contenido|
 |----------------|----------|
-
 | **main.py** |  Código que se subio a Deta Space, con las Querys solicitadas |
 | **ETL.ipynb** | Limpieza realizada a los Datasets de las plataformas |
 | **ETLrating.ipynb** | Limpieza realizada a los Datasets de los usuarios y sus puntuaciones |
