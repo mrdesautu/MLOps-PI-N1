@@ -84,7 +84,7 @@ Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se
 + dataset user Google Drive(https://drive.google.com/file/d/1EL_vLidUTe-33t8oK6NZtSYCjrcZxFxk/view?usp=sharing)
 
 
-## ANALISIS DE FORTALEZAS Y DEBILIDADES PERSONALES
+## ANALISIS DE FORTALEZAS Y DIFICULTADES PERSONALES
 
 + me resulto interesante comentar algo de mi experiencia en la realización de este trabajo
 
