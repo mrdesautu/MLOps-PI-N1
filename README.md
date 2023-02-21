@@ -75,6 +75,8 @@ Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se
 | **Datasets** | Carpeta con los Datasets limpios y generados |
 
 
++ dataset user Google Drive(https://drive.google.com/file/d/1EL_vLidUTe-33t8oK6NZtSYCjrcZxFxk/view?usp=sharing)
+
 
 
 
