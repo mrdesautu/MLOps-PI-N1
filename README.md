@@ -46,6 +46,11 @@ Luego de haber realizado el EDA sobre nuestras bases de datos, se consideró que
 Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se ajusta al usuario solicitado, no recibe retroalimentacion, ni se actualiza automaticamente.  
 
 
+<br/>
+
+
+**`VIDEO EXPLICATIVO-YOUTUBE`**:
+(https://www.youtube.com/watch?v=oeb-aix2cig)
  
 
 <br/>
@@ -72,14 +77,20 @@ Se podria categorizar al proceso de MLops de nivel 0. ya que aunque el modelo se
 | **requierements.txt** | Paqueterías utilizadas |
 | **Modelo_de_ML.ipynb** | Modelo en base a correlacion de Pearson |
 | **Modelo_de_ML2.ipynb** | Realizacion del EDA sobre el Dataset de las plataformas y montaje del modelo de ML-k-vecinos |
-| **Datasets** | Carpeta con los Datasets limpios y generados |
+| **dfdef.csv** | Dataset de las 4 plataformas luego del proceso de ETL |
+| **user_pearson.csv** | Dataset luego del modelo de recomendacion por Usuario |
 
 
 + dataset user Google Drive(https://drive.google.com/file/d/1EL_vLidUTe-33t8oK6NZtSYCjrcZxFxk/view?usp=sharing)
 
 
+## ANALISIS DE FORTALEZAS Y DEBILIDADES
 
-
+| FORTALEZAS | DIFICULTADES|
+|----------------|----------|
+|constancia en una tarea atipica, busqueda de autosuperacion| aceptar las limitaciones tecnicas, en la realización de tareas agenas a mis habilidades previas |
+| consulta a compañeros, usuarios de internet, en busqueda de soluciones y alternativas para solucionar un problema | busqueda de caminos alternativos ante imposibilidades o tareas que se presentan como irresolubles |
+|practica en busqueda de soluciones en diferentes aginas e idiomas|dificultades en la implementacion de librerias como scikit-surprise|
 
 
 
